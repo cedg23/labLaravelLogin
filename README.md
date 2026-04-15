@@ -28,15 +28,13 @@ Para la ejecución de este proyecto se requieren las siguientes herramientas:
 
 | Herramienta | Descripción | Imagen |
 |------------|------------|--------|
-| PHP 8.0+ | Lenguaje de programación utilizado por Laravel | ![](https://www.php.net/images/logos/php-logo.svg) |
-| Composer | Gestor de dependencias para PHP | ![](https://getcomposer.org/img/logo-composer-transparent.png) |
-| Laravel | Framework de desarrollo web | ![](https://www.pngkey.com/png/full/214-2147741_laravel-laravel-logo-png.png) |
-| WAMP | Entorno local con Apache y MySQL | ![](https://www.wampserver.com/img/wamp-logo.png) |
-| Node.js y NPM | Gestión de paquetes frontend | ![](https://nodejs.org/static/images/logo.svg) |
-| Visual Studio Code | Editor de código | ![](https://code.visualstudio.com/assets/images/code-stable.png) |
-| Windows | Sistema operativo | ![](https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg) |
-
----
+| PHP 8.0+ | Lenguaje de programación utilizado por Laravel | <img src="https://www.php.net/images/logos/php-logo.svg" width="60"> |
+| Composer | Gestor de dependencias para PHP | <img src="https://getcomposer.org/img/logo-composer-transparent.png" width="60"> |
+| Laravel | Framework de desarrollo web | <img src="https://www.pngkey.com/png/full/214-2147741_laravel-laravel-logo-png.png" width="60"> |
+| WAMP | Entorno local con Apache y MySQL | <img src="https://www.wampserver.com/img/wamp-logo.png" width="60"> |
+| Node.js y NPM | Gestión de paquetes frontend | <img src="https://nodejs.org/static/images/logo.svg" width="60"> |
+| Visual Studio Code | Editor de código | <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="60"> |
+| Windows | Sistema operativo | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="60"> |
 
 ## 🛠️ Instalación de Herramientas
 
