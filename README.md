@@ -31,9 +31,9 @@ Para la ejecución de este proyecto se requieren las siguientes herramientas:
 | PHP 8.0+ | Lenguaje de programación utilizado por Laravel | <img src="https://www.php.net/images/logos/php-logo.svg" width="60"> |
 | Composer | Gestor de dependencias para PHP | <img src="https://getcomposer.org/img/logo-composer-transparent.png" width="60"> |
 | Laravel | Framework de desarrollo web | <img src="https://www.pngkey.com/png/full/214-2147741_laravel-laravel-logo-png.png" width="60"> |
-| WAMP | Entorno local con Apache y MySQL | <img src="https://www.wampserver.com/img/wamp-logo.png" width="60"> |
+| WAMP | Entorno local con Apache y MySQL | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/WampServer-logo.svg/960px-WampServer-logo.svg.png" width="60"> |
 | Node.js y NPM | Gestión de paquetes frontend | <img src="https://nodejs.org/static/images/logo.svg" width="60"> |
-| Visual Studio Code | Editor de código | <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="60"> |
+| Visual Studio Code | Editor de código | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png" width="60"> |
 | Windows | Sistema operativo | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="60"> |
 
 ## 🛠️ Instalación de Herramientas
