@@ -24,14 +24,17 @@ Laravel implementa esta arquitectura de la siguiente forma:
 
 ## ⚙️ Requisitos Previos
 
-* PHP 8.0 o superior
-* Composer
-* Laravel
-* WAMP (Apache y MySQL)
-* MySQL o MariaDB
-* Node.js y NPM
-* Visual Studio Code
-* Sistema Operativo: Windows
+Para la ejecución de este proyecto se requieren las siguientes herramientas:
+
+| Herramienta | Descripción | Imagen |
+|------------|------------|--------|
+| PHP 8.0+ | Lenguaje de programación utilizado por Laravel | ![](https://www.php.net/images/logos/php-logo.svg) |
+| Composer | Gestor de dependencias para PHP | ![](https://getcomposer.org/img/logo-composer-transparent.png) |
+| Laravel | Framework de desarrollo web | ![](https://www.pngkey.com/png/full/214-2147741_laravel-laravel-logo-png.png) |
+| WAMP | Entorno local con Apache y MySQL | ![](https://www.wampserver.com/img/wamp-logo.png) |
+| Node.js y NPM | Gestión de paquetes frontend | ![](https://nodejs.org/static/images/logo.svg) |
+| Visual Studio Code | Editor de código | ![](https://code.visualstudio.com/assets/images/code-stable.png) |
+| Windows | Sistema operativo | ![](https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg) |
 
 ---
 
