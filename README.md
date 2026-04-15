@@ -195,7 +195,7 @@ El sistema permite registrar usuarios e iniciar sesión correctamente, validando
 
 * https://laravel.com/docs
 * Documentación del laboratorio proporcionada por la profesora:  
-  [Ver guía del laboratorio](docs/Guía del Laboratorio de Login en Laravel.pdf)  
+  [Ver guía del laboratorio](docs/guia-lab.pdf)  
 * https://www.php.net/
 
 ---
